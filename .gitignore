@@ -1,1 +1,8 @@
+/bin/
 /.metadata/
+.classpath
+.project
+.settings
+.java/
+.GITDEMO/
+
